@@ -42,8 +42,8 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .text-transform-capitalize {
   text-transform: capitalize;
-
 }
+
 .about__news {
   max-width: 1200px;
   margin: 0 auto;
@@ -75,7 +75,6 @@ p, h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
 }
 
-
 .news-about-pet {
   border-right: 1px solid #cdd1d0;
 }
@@ -94,7 +93,6 @@ p, h1, h2, h3, h4, h5, h6 {
   max-width: 420px;
   margin-left: 60px;
 }
-
 
 .latest_news-editor-title {
   margin-top: -50px;
@@ -115,7 +113,6 @@ p, h1, h2, h3, h4, h5, h6 {
   align-items: center;
   background-color: #cdd1d0;
   margin-bottom: 10px;
-
 }
 
 .card-num {
