@@ -51,7 +51,8 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .about__news-latest {
-  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 .latest__news {
@@ -155,9 +156,4 @@ p, h1, h2, h3, h4, h5, h6 {
 .news-editor-card:hover .card-num {
   background-color: #3271a8;
   color: #fff;
-}
-
-.about__news-latest {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
 }
